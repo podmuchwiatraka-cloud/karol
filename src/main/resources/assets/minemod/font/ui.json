@@ -1,0 +1,6 @@
+{
+  "providers": [
+    {"type": "ttf", "file": "minemod:Inter-Medium.otf", "shift": [0, 0], "size": 10.0, "oversample": 8.0},
+    {"type": "reference", "id": "minecraft:default"}
+  ]
+}
